@@ -23,6 +23,7 @@ nav{
     display: flex;
     justify-content: space-around;
     width: 30%;
+    height: 100%;
 }
 
 .nav-links li{
@@ -68,7 +69,7 @@ nav{
     .nav-links{
         position: absolute;
         right: 0px;
-        height: 92vh;
+        height: 100%;
         top: 8vh;
         background-color: #F8F8F8;
         display: flex;
